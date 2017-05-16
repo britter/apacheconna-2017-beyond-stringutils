@@ -157,7 +157,7 @@ Note:
 - Commons Lang 3.4 requires Java 6
 - Commons Lang 3.5 will require Java 7
 - Discussions on the ML about Java 8
-- Build works on Java 9 but problems with Locales
+- Builds fine on Java 9
 
 Note:
 - Leverage Java 8 features (default methods, Lambdas)
